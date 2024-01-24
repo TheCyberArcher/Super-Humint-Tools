@@ -22,6 +22,8 @@
 
 </br>
 
+Commands : 
+
 holehe : ```holehe "email"``` \
 sherlock : ```sherlock "username"``` \
 DaProfiler : ```python3 ~/.humint-tools\DaProfiler\profiler.py -n "name" -ln "lastname"``` \
