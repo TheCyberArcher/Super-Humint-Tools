@@ -24,7 +24,9 @@
 
 ### Phonenumber
 
-- [Inspector](https://github.com/N0rz3/Inspector) (Phone check, country, registration on websites)
+- [Inspector](https://github.com/N0rz3/Inspector) (phone check, country, registration on websites)
+- [PhoneNumber-OSINT](https://github.com/spider863644/PhoneNumber-OSINT) (phone and isp check + extraction)
+- [PhoneInfoga](https://github.com/Trena13/PhoneInfoga) (phone check, footprint, reputation)
 
 ### Picture Recon
 
