@@ -17,7 +17,9 @@
 
 ### Geolocalisation
 
-- [geo-recon](https://github.com/radioactivetobi/geo-recon)
+- [geo-recon](https://github.com/radioactivetobi/geo-recon) (ip recon)
+- [tweesmapper](https://github.com/r3mlab/tweetsmapper) (twitter user recon)
+- [ShowMePlace](https://github.com/OSINT-mindset/ShowMePlace) (satellite visualisation)
 
 ### Phonenumber
 
