@@ -1,5 +1,9 @@
 # Super-Humint-Tools
 
+> Welcome to my repository dedicated to online surveys. If you are looking to find a person or obtain public information in an automated way, I offer you a series of software to run locally to speed up your work. Humint is one of the intelligence techniques often used for military purposes, the aim being to make the maximum possible correlation to obtain a clear profile of your target.
+
+> Disclaimer: Although all of these tools are legal, your use of them must be ethical. Osint techniques operate in a legal gray area, the data that you can recover can be classified and prosecution can be made in the event of compromise on your part.
+
 ---
 
 ### Frameworks
