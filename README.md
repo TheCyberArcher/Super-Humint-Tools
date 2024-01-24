@@ -18,6 +18,7 @@
 - [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) (phonenumber, social media, email)
 - [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) (email, phone, social network data scrapping, dorks...)
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) (finding a person's profile across +1000 social media)
+- [Maigret](https://github.com/soxoj/maigret/blob/main/README.md) (Maigret collects a dossier on a person by username only)
 
 </br>
 
