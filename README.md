@@ -81,6 +81,18 @@
 - [PhoneNumber-OSINT](https://github.com/spider863644/PhoneNumber-OSINT) (phone and isp check + extraction)
 - [PhoneInfoga](https://github.com/Trena13/PhoneInfoga) (phone check, footprint, reputation)
 
+</br>
+
+```cd ~/.humint-tools/Inspector/```
+
+```python3 inspector.py "phonenumber"```
+
+```cd ~/.humint-tools/phone-number-osint/```
+
+```python3 phonenumber_osint.py```
+
+```phoneinfoga scan -n "phonenumber"```
+
 ---
 
 ### Picture Recon
