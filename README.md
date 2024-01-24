@@ -27,14 +27,11 @@ holehe : ```holehe "email"``` \
 
 sherlock : ```sherlock "username"``` \
 
-DaProfiler : 
+DaProfiler :  ```cd ~/.humint-tools/DaProfiler/``` ```python3 ~/.humint-tools/DaProfiler/profiler.py -n "name" -ln "lastname"``` \
 
-```cd ~/.humint-tools/DaProfiler/```
-```python3 ~/.humint-tools/DaProfiler/profiler.py -n "name" -ln "lastname"``` \
+MoriartyProject : ```cd ~/.humint-tools/Moriarty/``````python3 ~/.humint-tools/Moriarty/MoriartyProject.py``` \
 
-MoriartyProject : ```python3 ~/.humint-tools/Moriarty/MoriartyProject.py``` \
-
-MrHolmes : ```python3 ~/.humint-tools/MrHolmes/MrHolmes.py``` \
+MrHolmes : ```cd ~/.humint-tools/MrHolmes/``` ```python3 ~/.humint-tools/MrHolmes/MrHolmes.py``` \
 
 social-analyzer : ```python3 -m social-analyzer --username "username"```
 
