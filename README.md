@@ -25,6 +25,6 @@
 
 - [Inspector](https://github.com/N0rz3/Inspector) (Phone check, country, registration on websites)
 
-### Face recon
+### Picture Recon
 
 - [FacecheckID](https://facecheck.id/)
