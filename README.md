@@ -20,11 +20,11 @@
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) (finding a person's profile across +1000 social media)
 - [h8mail](https://github.com/khast3x/h8mail) (check email, url, dataleaks)
 
-After the script installation, this command can you help
+</br>
 
-To launch holehe : ```holehe "email"``` \
-To launch sherlock : ```sherlock "username"```
-
+holehe : ```holehe "email"``` \
+sherlock : ```sherlock "username"```
+DaProfiler : ```python3 .humint-tools\DaProfiler\profiler.py -n "name" -ln "lastname"```
 
 
 ---
