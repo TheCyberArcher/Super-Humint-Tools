@@ -98,8 +98,18 @@
 ### Picture Recon
 
 - [FacecheckID](https://facecheck.id/) (gets a person's social media from an image)
-- [image-match](https://github.com/rhsimplex/image-match) (search for matching images)
 - [sherloq](https://github.com/GuidoBartoli/sherloq) (file information, exif dump, hash, similar search)
+- [1FOR3NSIC](https://github.com/t0mxplo1t/1FOR3NSIC) (simple Photo Forensic Tool)
+
+</br>
+
+```cd ~/.humint-tools/sherloq/```
+
+```python3 sherloq.py```
+
+```cd ~/.humint-tools/1FOR3NSIC/```
+
+```python3 imgosint.py```
 
 ---
 
