@@ -17,7 +17,6 @@
 - [DaProfiler](https://github.com/daprofiler/Daprofiler) (firstname and last name check + give address and location)
 - [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) (phonenumber, social media, email)
 - [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) (email, phone, social network data scrapping, dorks...)
-- [infoooze](https://github.com/devXprite/infoooze) (social network, url, user, IP, email...)
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) (finding a person's profile across +1000 social media)
 - [h8mail](https://github.com/khast3x/h8mail) (check email, url, dataleaks)
 
