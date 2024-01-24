@@ -20,6 +20,7 @@ pip install pyarrow --break-system-packages
 
 git clone https://github.com/Lucksi/Mr.Holmes.git ~/."humint-tools"/MrHolmes/
 cd ~/."humint-tools"/MrHolmes/
+pip install -r requirements.txt --break-system-packages
 sudo bash install.sh
 
 yay -S python3 python3-pip
