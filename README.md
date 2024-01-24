@@ -40,6 +40,10 @@
 
 ```python3 -m social-analyzer --username "username"```
 
+```cd ~/.humint-tools/maigret```
+
+```python3 maigret.py "username"```
+
 ---
 
 ### Google Hacking
