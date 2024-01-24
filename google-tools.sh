@@ -7,8 +7,7 @@ Sleep 3
 yay -S python3 python-pip git
 
 git clone https://github.com/Zarcolio/sitedorks.git ~/.humint-tools/sitedorks/
-cd ~/.humint-tools/sitedorks/
-bash install.sh
+pip install -r ~/.humint-tools/sitedorks/requirements.txt
 
 pip install pipx --break-system-packages
 pipx ensurepath
