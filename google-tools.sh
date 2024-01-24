@@ -10,6 +10,6 @@ git clone https://github.com/Zarcolio/sitedorks.git ~/.humint-tools/sitedorks/
 cd ~/.humint-tools/sitedorks/
 bash install.sh
 
-pip install pipx
+pip install pipx --break-system-packages
 pipx ensurepath
-pipx install ghunt
+pipx install ghunt --break-system-packages
