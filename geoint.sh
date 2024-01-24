@@ -7,4 +7,5 @@ yay -S python3 python-pip git
 git clone https://github.com/radioactivetobi/geo-recon.git ~/.humint-tools/geo-recon/
 pip install -r ~/.humint-tools/geo-recon/requirements.txt --break-system-packages
 
-
+git clone https://github.com/HunxByts/GhostTrack.git /.humint-tools/GhostTrack/
+pip install -r ~/.humint-tools/GhostTrack/requirements.txt --break-system-packages
