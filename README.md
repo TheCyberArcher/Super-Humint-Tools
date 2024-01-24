@@ -22,7 +22,6 @@
 
 </br>
 
-Commands : 
 
 holehe : ```holehe "email"``` \
 sherlock : ```sherlock "username"``` \
