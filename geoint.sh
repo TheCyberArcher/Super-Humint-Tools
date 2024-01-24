@@ -11,5 +11,5 @@ git clone https://github.com/HunxByts/GhostTrack.git /.humint-tools/GhostTrack/
 pip install -r ~/.humint-tools/GhostTrack/requirements.txt --break-system-packages
 
 git clone https://github.com/r3mlab/tweetsmapper.git /.humint-tools/tweetsmapper/
-cd  ~/.humint-tools/GhostTrack/tweetsmapper/
+cd  ~/.humint-tools/tweetsmapper/
 pip3 install -e
