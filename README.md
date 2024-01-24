@@ -61,6 +61,7 @@
 
 - [geo-recon](https://github.com/radioactivetobi/geo-recon) (ip recon)
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) (ip, phone and username track location)
+- [Shodan](https://www.shodan.io/) (ip check and recon)
 
 </br>
 
