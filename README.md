@@ -10,10 +10,13 @@
 - [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) (phonenumber, social media, email)
 - [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) (email, phone, social network data scrapping, dorks...)
 - [infoooze](https://github.com/devXprite/infoooze) (social network, url, user, IP, email...)
+- [social-analyzer](https://github.com/qeeqbox/social-analyzer) (finding a person's profile across +1000 social media)
+- [h8mail](https://github.com/khast3x/h8mail) (check email, url, dataleaks)
 
 ### Google Hacking
 
 - [sitedorks](https://github.com/Zarcolio/sitedorks)
+- [Ghunt](https://github.com/mxrch/GHunt)
 
 ### Geolocalisation
 
@@ -33,3 +36,9 @@
 - [FacecheckID](https://facecheck.id/) (gets a person's social media from an image)
 - [image-match](https://github.com/rhsimplex/image-match) (search for matching images)
 - [sherloq](https://github.com/GuidoBartoli/sherloq) (file information, exif dump, hash, similar search)
+
+### Dark Web Investigation
+
+- [TorBot](https://github.com/DedSecInside/TorBot) (return page + host, save links)
+- [DarkScrape](https://github.com/itsmehacker/DarkScrape) (url scraping, face recon, media download)
+- [thedevilseye](https://github.com/rly0nheart/thedevilseye) (obtain tor website list from a description)
