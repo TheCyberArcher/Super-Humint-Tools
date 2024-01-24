@@ -22,7 +22,7 @@
 
 After the script installation, this command can you help
 
-To launch holehe : ```holehe "email"```
+To launch holehe : ```holehe "email"``` \
 To launch sherlock : ```sherlock "username"```
 
 
