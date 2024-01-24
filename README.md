@@ -18,7 +18,6 @@
 - [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) (phonenumber, social media, email)
 - [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) (email, phone, social network data scrapping, dorks...)
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) (finding a person's profile across +1000 social media)
-- [h8mail](https://github.com/khast3x/h8mail) (check email, url, dataleaks)
 
 </br>
 
