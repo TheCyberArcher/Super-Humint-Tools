@@ -20,6 +20,15 @@
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) (finding a person's profile across +1000 social media)
 - [h8mail](https://github.com/khast3x/h8mail) (check email, url, dataleaks)
 
+After the script installation, this command can you help
+
+To launch holehe : ```holehe "email"```
+To launch sherlock : ```sherlock "username"```
+
+
+
+---
+
 ### Google Hacking
 
 - [sitedorks](https://github.com/Zarcolio/sitedorks)
