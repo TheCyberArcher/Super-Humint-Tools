@@ -4,6 +4,7 @@ echo "--- source : https://github.com/TheCyberArcher/Super-Humint-Tools/"
 
 yay -S python3 python-pip git
 
+mkdir ~/.humint-tools/
 chmod 777 -R ~/.humint-tools/
 
 git clone https://github.com/radioactivetobi/geo-recon.git ~/.humint-tools/geo-recon/
