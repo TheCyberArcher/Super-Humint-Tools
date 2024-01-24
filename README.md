@@ -23,21 +23,21 @@
 </br>
 
 
-```holehe "email"```\
+```holehe "email"```
 
-```sherlock "username"```\
+```sherlock "username"```
 
-```cd ~/.humint-tools/DaProfiler/```\ 
+```cd ~/.humint-tools/DaProfiler/```
 
 ```python3 ~/.humint-tools/DaProfiler/profiler.py -n "name" -ln "lastname"``` 
 
-```cd ~/.humint-tools/Moriarty/```\
+```cd ~/.humint-tools/Moriarty/```
 
 ```python3 ~/.humint-tools/Moriarty/MoriartyProject.py``` 
 
-```cd ~/.humint-tools/MrHolmes/```\ 
+```cd ~/.humint-tools/MrHolmes/```
 
-```python3 ~/.humint-tools/MrHolmes/MrHolmes.py```\
+```python3 ~/.humint-tools/MrHolmes/MrHolmes.py```
 
 ```python3 -m social-analyzer --username "username"```
 
