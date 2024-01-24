@@ -27,4 +27,6 @@
 
 ### Picture Recon
 
-- [FacecheckID](https://facecheck.id/)
+- [FacecheckID](https://facecheck.id/) (gets a person's social media from an image)
+- [image-match](https://github.com/rhsimplex/image-match) (search for matching images)
+- [sherloq](https://github.com/GuidoBartoli/sherloq) (file information, exif dump, hash, similar search)
