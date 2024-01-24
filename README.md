@@ -9,6 +9,7 @@
 - [DaProfiler](https://github.com/daprofiler/Daprofiler) (firstname and last name check + give address and location)
 - [Moriarty-Project](https://github.com/AzizKpln/Moriarty-Project) (phonenumber, social media, email)
 - [Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) (email, phone, social network data scrapping, dorks...)
+- [infoooze](https://github.com/devXprite/infoooze) (social network, url, user, IP, email...)
 
 ### Google Hacking
 
@@ -17,3 +18,7 @@
 ### Geolocalisation
 
 - [geo-recon](https://github.com/radioactivetobi/geo-recon)
+
+### Phonenumber
+
+- [Inspector](https://github.com/N0rz3/Inspector) (Phone check, country, registration on websites)
