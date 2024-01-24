@@ -58,6 +58,8 @@
 - [geo-recon](https://github.com/radioactivetobi/geo-recon) (ip recon)
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) (ip, phone and username track location)
 
+</br>
+
 ```cd  ~/.humint-tools/geo-recon/```
 
 ```python3  ~/.humint-tools/geo-recon/geo-recon.py "ip address"```
@@ -66,9 +68,7 @@
 
 ```python3 GhostTR.py```
 
-</br>
-
-
+---
 
 ### Phonenumber
 
@@ -76,14 +76,20 @@
 - [PhoneNumber-OSINT](https://github.com/spider863644/PhoneNumber-OSINT) (phone and isp check + extraction)
 - [PhoneInfoga](https://github.com/Trena13/PhoneInfoga) (phone check, footprint, reputation)
 
+---
+
 ### Picture Recon
 
 - [FacecheckID](https://facecheck.id/) (gets a person's social media from an image)
 - [image-match](https://github.com/rhsimplex/image-match) (search for matching images)
 - [sherloq](https://github.com/GuidoBartoli/sherloq) (file information, exif dump, hash, similar search)
 
+---
+
 ### Dark Web Investigation
 
 - [TorBot](https://github.com/DedSecInside/TorBot) (return page + host, save links)
 - [DarkScrape](https://github.com/itsmehacker/DarkScrape) (url scraping, face recon, media download)
 - [thedevilseye](https://github.com/rly0nheart/thedevilseye) (obtain tor website list from a description)
+
+---
