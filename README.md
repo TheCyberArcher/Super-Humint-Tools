@@ -57,13 +57,14 @@
 
 - [geo-recon](https://github.com/radioactivetobi/geo-recon) (ip recon)
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) (ip, phone and username track location)
-- [tweesmapper](https://github.com/r3mlab/tweetsmapper) (twitter user recon)
 
 ```cd  ~/.humint-tools/geo-recon/```
 
 ```python3  ~/.humint-tools/geo-recon/geo-recon.py "ip address"```
 
-```cd ~/.humint-tools/
+```cd ~/.humint-tools/GhostTrack/```
+
+```python3 GhostTR.py```
 
 </br>
 
