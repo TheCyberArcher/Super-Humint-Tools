@@ -4,6 +4,8 @@ echo "--- source : https://github.com/TheCyberArcher/Super-Humint-Tools/"
 
 yay -S python3 python-pip git
 
+chmod 777 -r  ~/.humint-tools/
+
 git clone https://github.com/radioactivetobi/geo-recon.git ~/.humint-tools/geo-recon/
 pip install -r ~/.humint-tools/geo-recon/requirements.txt --break-system-packages
 
