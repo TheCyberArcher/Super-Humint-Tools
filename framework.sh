@@ -1,5 +1,7 @@
 echo "--- Bienvenue sur Super-Humint-Tools (Frameworks)---"
 
+echo "--- source : https://github.com/TheCyberArcher/Super-Humint-Tools/"
+
 Sleep 3
 
 yay -S python3 python-pip
