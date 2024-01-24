@@ -48,6 +48,11 @@
 - [sitedorks](https://github.com/Zarcolio/sitedorks)
 - [Ghunt](https://github.com/mxrch/GHunt)
 
+```sitedorks -query '"uber.com"```
+```ghunt email <email_address> --json user_data.json"```
+
+---
+
 ### Geolocalisation
 
 - [geo-recon](https://github.com/radioactivetobi/geo-recon) (ip recon)
