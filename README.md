@@ -25,7 +25,9 @@
 holehe : ```holehe "email"``` \
 sherlock : ```sherlock "username"``` \
 DaProfiler : ```python3 .humint-tools\DaProfiler\profiler.py -n "name" -ln "lastname"``` \
-
+MoriartyProject : ```python3 .humint-tools\Moriarty\MoriartyProject.py``` \
+MrHolmes : ```python3 .humint-tools\MrHolmes\MrHolmes.py``` \
+social-analyzer : ```python3 -m social-analyzer --username "username"```
 
 ---
 
