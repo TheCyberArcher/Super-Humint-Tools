@@ -46,7 +46,6 @@
 ### Google Hacking
 
 - [sitedorks](https://github.com/Zarcolio/sitedorks)
-- [Ghunt](https://github.com/mxrch/GHunt)
 
 </br>
 
@@ -61,7 +60,10 @@
 - [geo-recon](https://github.com/radioactivetobi/geo-recon) (ip recon)
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) (ip, phone and username track location)
 - [tweesmapper](https://github.com/r3mlab/tweetsmapper) (twitter user recon)
-- [ShowMePlace](https://github.com/OSINT-mindset/ShowMePlace) (satellite visualisation)
+
+</br>
+
+
 
 ### Phonenumber
 
