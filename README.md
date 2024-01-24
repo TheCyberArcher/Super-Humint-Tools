@@ -23,8 +23,8 @@
 </br>
 
 holehe : ```holehe "email"``` \
-sherlock : ```sherlock "username"```
-DaProfiler : ```python3 .humint-tools\DaProfiler\profiler.py -n "name" -ln "lastname"```
+sherlock : ```sherlock "username"``` \
+DaProfiler : ```python3 .humint-tools\DaProfiler\profiler.py -n "name" -ln "lastname"``` \
 
 
 ---
