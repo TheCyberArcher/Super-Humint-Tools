@@ -20,6 +20,7 @@
 - [social-analyzer](https://github.com/qeeqbox/social-analyzer) (finding a person's profile across +1000 social media)
 - [Maigret](https://github.com/soxoj/maigret/blob/main/README.md) (maigret collects a dossier on a person by username only)
 - [BlackBird](https://github.com/p1ngul1n0/blackbird) (ultimate username recon on the web)
+- [username-search](https://github.com/daluna-hub/username_search) (username researsh on FR social database)
 
 </br>
 
