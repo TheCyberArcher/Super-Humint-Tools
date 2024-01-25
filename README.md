@@ -119,4 +119,14 @@
 - [DarkScrape](https://github.com/itsmehacker/DarkScrape) (url scraping, face recon, media download)
 - [thedevilseye](https://github.com/rly0nheart/thedevilseye) (obtain tor website list from a description)
 
+```cd ~/.humint-tools/torbot/```
+
+```python3 torbot -u https://www.example.com```
+
+```cd ~/.humint-tools/DarkScrape/```
+
+```python3 darkscrape.py ```
+
+```thedevilseye "query"```
+
 ---
