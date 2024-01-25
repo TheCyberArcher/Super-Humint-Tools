@@ -88,7 +88,7 @@
 
 </br>
 
-```cd ~/.humint-tools/Inspector/```
+```cd ~/.humint-tools/core/Inspector/```
 
 ```python3 inspector.py "phonenumber"```
 
