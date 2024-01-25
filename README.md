@@ -50,6 +50,10 @@
 
 ```python3 blackbird.py -u "username"```
 
+```cd ~/.humint-tools/username_search/```
+
+```python3 username_search.py```
+
 ---
 
 ### Google Hacking
