@@ -23,6 +23,9 @@ pip install pyarrow --break-system-packages
 git clone https://github.com/soxoj/maigret ~/.humint-tools/maigret/
 pip install -r ~/.humint-tools/maigret/requirements.txt  --break-system-packages
 
+git clone https://github.com/p1ngul1n0/blackbird ~/.humint-tools/blackbird/
+pip install -r ~/.humint-tools/blackbird/requirements.txt --break-system-packages
+
 git clone https://github.com/Lucksi/Mr.Holmes.git ~/."humint-tools"/MrHolmes/
 cd ~/."humint-tools"/MrHolmes/
 pip install -r requirements.txt --break-system-packages
