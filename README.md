@@ -128,6 +128,8 @@
 - [TorBot](https://github.com/DedSecInside/TorBot) (return page + host, save links)
 - [DarkScrape](https://github.com/itsmehacker/DarkScrape) (url scraping, face recon, media download)
 - [thedevilseye](https://github.com/rly0nheart/thedevilseye) (obtain tor website list from a description)
+- [OnionSearch](https://github.com/megadose/OnionSearch) (darkweb python scrapper)
+
 
 </br>
 
@@ -140,5 +142,7 @@
 ```python3 darkscrape.py ```
 
 ```thedevilseye "query"```
+
+```onionsearch "keyword"```
 
 ---
