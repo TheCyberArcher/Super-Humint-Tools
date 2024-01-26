@@ -72,6 +72,8 @@
 - [geo-recon](https://github.com/radioactivetobi/geo-recon) (ip recon)
 - [GhostTrack](https://github.com/HunxByts/GhostTrack) (ip, phone and username track location)
 - [Shodan](https://www.shodan.io/) (ip check and recon)
+- [TraxOsint](https://github.com/N0rz3/TraxOsint) (check ip, provider, localisation, world-map generation)
+
 
 </br>
 
@@ -82,6 +84,10 @@
 ```cd ~/.humint-tools/GhostTrack/```
 
 ```python3 GhostTR.py```
+
+```cd ~/.humint-tools/TraxOsint/```
+
+```python3 traxosint.py "ip address"```
 
 ---
 
